@@ -1,0 +1,19 @@
+[
+	{
+		"name": "Pedro",
+		"email": "pedro@gmail.com",
+		"isValid": true,
+		"metaInfo": {
+			"categoryId": 1111,
+			"segmentId": 2222,
+			"keywords": "foo, bar, foobar"
+		}
+	},
+	{
+		"name": "Javier",
+		"email":"javier@gmail.com",
+		"isValid": false,
+		"metaInfo": null
+	}
+
+]
